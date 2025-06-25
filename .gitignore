@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+.next/
+out/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+.env.*
+
+# AWS Amplify
+amplify/
+aws-exports.js
+aws-exports.tsx
+
+# VSCode settings
+.vscode/
+
+# Misc
+coverage/
+*.local
+
+# OS generated files
+*.swp
+*.swo
